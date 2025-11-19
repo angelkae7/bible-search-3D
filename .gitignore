@@ -1,0 +1,21 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# VS / Rider
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.pidb
+*.suo
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
