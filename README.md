@@ -1,5 +1,6 @@
 # README – Projet Unity BibleSearch3D (Windows Desktop)
 Étudiante : Angèle KALOÏ – BUT MMI
+GitHub : https://github.com/angelkae7/bible-search-3D/
 
 ## 1. Présentation du projet
 Ce projet propose un prototype Unity permettant d’effectuer une recherche biblique à la voix.
